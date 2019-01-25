@@ -3,3 +3,5 @@
 ################################################################################
 
 /BXFin.CodingTest.Api/obj/Debug
+/BXFin.CodingTest.ServicesTests/bin/Debug
+/BXFin.CodingTest.ServicesTests/obj/Debug

@@ -1,0 +1,5 @@
+D:\Development\Projects\Brilliance Technology Group Coding Exam\BXFin.CodingTest\BXFin.CodingTest.Api\BXFin.CodingTest.Services\bin\Debug\BXFin.CodingTest.Services.dll
+D:\Development\Projects\Brilliance Technology Group Coding Exam\BXFin.CodingTest\BXFin.CodingTest.Api\BXFin.CodingTest.Services\bin\Debug\BXFin.CodingTest.Services.pdb
+D:\Development\Projects\Brilliance Technology Group Coding Exam\BXFin.CodingTest\BXFin.CodingTest.Api\BXFin.CodingTest.Services\obj\Debug\BXFin.CodingTest.Services.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Brilliance Technology Group Coding Exam\BXFin.CodingTest\BXFin.CodingTest.Api\BXFin.CodingTest.Services\obj\Debug\BXFin.CodingTest.Services.dll
+D:\Development\Projects\Brilliance Technology Group Coding Exam\BXFin.CodingTest\BXFin.CodingTest.Api\BXFin.CodingTest.Services\obj\Debug\BXFin.CodingTest.Services.pdb
